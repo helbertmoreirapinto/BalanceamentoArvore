@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538978626 source:c:\users\helbert\documents\github\balanceamentoarvore\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
